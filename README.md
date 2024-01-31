@@ -12,3 +12,6 @@
 
 [Questions / Answers](https://github.com/ShadowWhisperer/AppExorcist/blob/main/QA.txt)
 
+<br>
+
+https://github.com/ShadowWhisperer/AppExorcist/assets/61057625/864408be-c763-465b-bf0d-2fc0a1db03a4
