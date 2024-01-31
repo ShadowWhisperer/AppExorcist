@@ -1512,6 +1512,14 @@
    "bloat": "no"
   },
   {
+   "name": "EnviromentsApp",
+   "info": "?",
+   "issues": "?",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
    "name": "9426MICRO-STARINTERNATION.BusinessCenter",
    "info": "[App] MSI Center",
    "issues": "none",
@@ -2363,6 +2371,46 @@
    "name": "WildTangentGames.-GamesApp-",
    "info": "[App] WildTangent Games App",
    "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "LenovoCorporation.LenovoID",
+   "info": "Lenovo ID",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "ReaderNotificationClient",
+   "info": "Adobe Reader Notification Client",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "C236C1D5.LogMeIn123",
+   "info": "[Remote Software] LogMeIn",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "E046963F.LenovoSettingsforEnterprise",
+   "info": "Lenovo Commercial Vantage",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "MicrosoftWindows.Speech.en-US.1",
+   "info": "Speech Pack: English (United States)",
+   "issues": "May break text to speech",
    "hide": "no",
    "native": "no",
    "bloat": "no"
