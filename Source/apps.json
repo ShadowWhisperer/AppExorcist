@@ -1,0 +1,4082 @@
+[
+  {
+   "name": "26720RandomSaladGamesLLC.HeartsDeluxe",
+   "info": "[Game] Hearts Deluxe",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "38552CrispApp.AroundTheWorldin80DaysHiddenObjectga",
+   "info": "[Game] Around The World In 80 Days: Hidden Objects",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "38552CrispApp.RomancewithChocolate-HiddenObjectsLo",
+   "info": "[Game] Romance with Chocolate: Hidden Object in Paris",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "5CB722CC.SeekersNotesMysteriesofDarkwood",
+   "info": "[Game] Seekers Notes: Hidden Objects",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "62487Unicorn.QuickCollage",
+   "info": "[App] Snap Photo Collage",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "828B5831.G5LauncherG5EN",
+   "info": "[App] G5 Games Launcher",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "828B5831.HiddenCityMysteryofShadows2G5",
+   "info": "[Game] Hidden City: Mystery of Shadows",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "AD2F1837.HPJumpStarts",
+   "info": "[App] HP JumpStart",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "Facebook.317180B0BB486",
+   "info": "[App] Facebook Messenger",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "McAfeeWPSSparsePackage",
+   "info": "[App] McAfee Total Protection (WPS)",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "MicrosoftCorporationII.WinAppRuntime.Main.1.4",
+   "info": "Windows App Runtime (1.4)",
+   "issues": "Breaks Windows Store Apps",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "MicrosoftCorporationII.WinAppRuntime.Singleton",
+   "info": "Windows App Runtime (Singleton)",
+   "issues": "Breaks Windows Store Apps",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.WinAppRuntime.DDLM.3000.882.2207.0-x6",
+   "info": "Windows App Runtime DDLM 3000.882.2207.0-x6",
+   "issues": "Breaks Windows Store Apps",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.WinAppRuntime.DDLM.3000.882.2207.0-x8",
+   "info": "Windows App Runtime DDLM 3000.882.2207.0-x8",
+   "issues": "Breaks Windows Store App",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.WinAppRuntime.DDLM.4000.964.11.0-x6",
+   "info": "Windows App Runtime DDLM 4000.964.11.0-x6",
+   "issues": "Breaks Windows Store App",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.WinAppRuntime.DDLM.4000.964.11.0-x8",
+   "info": "Windows App Runtime DDLM 4000.964.11.0-x8",
+   "issues": "Breaks Windows Store App",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "PricelinePartnerNetwork.Booking.comUSABigsavingson",
+   "info": "[App] Booking.com",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "RolltowerStudios.HiddenObjectsMysterySocietyHD",
+   "info": "[Game] Hidden Objects: Mystery Society",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "RolltowerStudios.HiddenObjectsTimeCrimes",
+   "info": "[Game] Hidden Objects: Time Crimes",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "RolltowerStudios.MysterySociety2HiddenObjects",
+   "info": "[Game] Mystery Society 2: Hidden Objects",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "SynapticsIncorporated.SynHPConsumerDApp",
+   "info": "[App] Synaptics TouchPad",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "TripAdvisorLLC.TripAdvisorHotelsFlightsRestaurants",
+   "info": "[App] TripAdvisor",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Weather.TheWeatherChannelforHP",
+   "info": "[App] The Weather Channel",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "WildTangentGames.63435CFB65F55",
+   "info": "[App] WildTangent Games",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "AdvancedMicroDevicesInc-2.AMDLink",
+   "info": "[App] AMD Link",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "A278AB0D.DisneyMagicKingdoms",
+   "info": "[Game] Disney Magic Kingdoms",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "A278AB0D.DragonManiaLegends",
+   "info": "[Game] Dragon Mania: Legends",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "A278AB0D.MarchofEmpires",
+   "info": "[Game] March of Empires",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "A-Volute.Nahimic",
+   "info": "[App] Nahimic Audio",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "ELANMicroelectronicsCorpo.ELANTouchpadforThinkpad",
+   "info": "[App] ELAN Touchpad for Thinkpad",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "flaregamesGmbH.RoyalRevolt2",
+   "info": "[Game] Royal Revolt 2",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "king.com.BubbleWitch3Saga",
+   "info": "[Game] Bubble Witch 3 Saga",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.CommsPhone",
+   "info": "[App] Microsoft Phone",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.MicrosoftSudoku",
+   "info": "[Game] Microsoft Sudoku",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.Studios.Wordament",
+   "info": "[Game] Microsoft Ultimate Word Games",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.WindowsPhone",
+   "info": "[App] Microsoft Phone",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "0EB8BD08.MysteryManorhiddenobjects",
+   "info": "[Game] Mystery Manor: Hidden Objects",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "12262FiveStarGames.CrossyChickenRoad",
+   "info": "[Game] Crossy Chicken Road",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "145844925F2BF.Mahjong",
+   "info": "[Game] Mahjong",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "23385HappyFamilyGames.CanYouEscapeAdventure",
+   "info": "[Game] Can You Escape: Adventure",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "26720RandomSaladGamesLLC.CribbageDeluxe",
+   "info": "[Game] Cribbage Deluxe",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "26720RandomSaladGamesLLC.Hexter",
+   "info": "[Game] Hexter",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "26720RandomSaladGamesLLC.SimpleFreeCell",
+   "info": "[Game] Simple FreeCell",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "26720RandomSaladGamesLLC.SimpleMahjong",
+   "info": "[Game] Simple Mahjong",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "26720RandomSaladGamesLLC.SimpleMinesweeper",
+   "info": "[Game] Simple Minesweeper",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "26720RandomSaladGamesLLC.SimpleSpiderSolitaire",
+   "info": "[Game] Simple Spider Solitaire",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "26720RandomSaladGamesLLC.Spades",
+   "info": "[Game] Spades",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "26720RandomSaladGamesLLC.Sudoku-Pro",
+   "info": "[Game] Sudoku - Pro",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "32988BernardoZamora.SolitaireHD",
+   "info": "[Game] Solitaire HD",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "32988BernardoZamora.SpiderSolitaireHD",
+   "info": "[Game] Spider Solitaire HD",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "39674HytoGame.TexasHoldemOnline",
+   "info": "[Game] Texas Holdem Poker!",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "45515SkyLineGames.Backgammon.free",
+   "info": "[Game] Backgammon Free",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "49005RoyalPuzzleSagaGames.MinesweeperOriginal",
+   "info": "[Game] Minesweeper Original",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "59091GameDesignStudio.HeartsUnlimited",
+   "info": "[Game] Hearts Unlimited",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "828B5831.HomicideSquadHiddenCrimes",
+   "info": "[Game] Homicide Squad: Hidden Object Game",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "AeriaCanadaStudioInc.BlockWarsSurvivalGames",
+   "info": "[Game] Block Wars Survival Games",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "EvilGrogGamesGmbH.WorldPeaceGeneral2017",
+   "info": "[Game] World Peace General 2017",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "GameCircusLLC.CoinDozer",
+   "info": "[Game] Coin Dozer",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "NAMCOBANDAIGamesInc.KatamariDamacyRerollWindows",
+   "info": "[Game] Katamari Damacy REROLL",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "TreeCardGames.HeartsFree",
+   "info": "[Game] Hearts Free !",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "AstroGaming.AstroCommandCenter",
+   "info": "[App] Astro Command Center",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "DellInc.3926769DBC762",
+   "info": "Dell: Gaming Promo",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "DellInc.AlienwareCommandCenter",
+   "info": "[App] Alienware Command Center",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "DellInc.AlienwareCustomerConnect",
+   "info": "[App] Alienware Customer Connect",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "DellInc.AlienwareDigitalDelivery",
+   "info": "[App] Alienware Digital Delivery",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "DellInc.AlienwareUpdate",
+   "info": "[App] Alienware Update",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "DellInc.MyAlienware",
+   "info": "[App] My Alienware",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.XboxOneSmartGlass",
+   "info": "[App] Xbox: SmartGlass",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "ScreenovateTechnologies.AlienwareMobileConnect",
+   "info": "[App] Alienware Mobile Connect",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "06DAC6F6.StumbleUpon",
+   "info": "[App] StumbleUpon",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "12926CandyKingStudio.ToyBlast",
+   "info": "[Game] Toy Blast",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "14586regulars.FileViewer",
+   "info": "[App] 1 File Viewer",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "34791E63.CanonInkjetPrintUtility",
+   "info": "[App] Canon Inkjet Print Utility",
+   "issues": "Might break printer support",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "35314PoliceScannerRadio5-.PoliceRadioScanner5-0",
+   "info": "[App] Police Radio Scanner 5-0",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "40517HUTStudio.BallColorSwitch",
+   "info": "[Game] Color Switch",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "42197DaveK.BubbleDropFrenzy",
+   "info": "[Game] Bubble Drop Frenzy",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "48956TopiTapiGames.RollerSkeeBall",
+   "info": "[Game] Roller Skee Ball",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "51100VettiVendan.TableTennisPro3D",
+   "info": "[Game] Table Tennis Pro 3D",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "53971SuperpowStudio.MarbleZumar",
+   "info": "[Game] Marble Zumar",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "5895BlastCrushGames.ToonBlast",
+   "info": "[Game] Toon Blast",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "59091GameDesignStudio.4733080AEA0B3",
+   "info": "[Game] Bubble Shooter",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "61957Casualgame.ClassicWoodBlockPuzzle",
+   "info": "[Game] Classic Wood Block Puzzle",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "73F5BF5E.TwoDots",
+   "info": "[Game] Two Dots",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "77FB73B9.Ultima4inaRow",
+   "info": "[Game] Ultima 4 in a Row",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "7EE7776C.LinkedInforWindows",
+   "info": "[App] LinkedIn",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "9426MICRO-STARINTERNATION.MSICenter",
+   "info": "[App] MSI Center",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "AcerIncorporated.AcerExplorer",
+   "info": "[App] Acer Explorer",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "AdobeSystemsIncorporated.AdobeReader",
+   "info": "[App] Adobe Reader Touch",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Amazon.com.Amazon",
+   "info": "[App] Amazon",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "ChaChaSearch.ChaChaPushNotification",
+   "info": "[App] ChaCha",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "CyberLinkCorp.ac.AcerCrystalEye",
+   "info": "[App] Acer: Crystal Eye",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "CyberLinkCorp.ac.SocialJogger",
+   "info": "[App] Social Jogger",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "DellInc.DellShop",
+   "info": "[App] Dell Shop",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "esobiIncorporated.newsXpressoMetro",
+   "info": "[App] newsXpresso",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Flipboard.Flipboard",
+   "info": "[App] Flipboard",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "GAMELOFTSA.DespicableMeMinionRush",
+   "info": "[Game] Despicable: Me Minion Rush",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "GAMELOFTSA.SharkDash",
+   "info": "[Game] Shark Dash",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "GameMasons.MiniGolfStars2PuttPuttGolfing",
+   "info": "[Game] Mini Golf Stars 2: Putt Putt Golfing",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "GoPro.GoProChannel",
+   "info": "[App] GoPro Channel",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "GSoftTeam.SolitaireEpic",
+   "info": "[App] Solitaire Epic",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "LarsenToubroInfotechLtd.MarketsOnGo",
+   "info": "[App] Markets OnGo",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "MAGIX.MusicMakerJam",
+   "info": "[App] Music Maker JAM",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "McAfeeInc.01.McAfeeSecurityAdvisorforDell",
+   "info": "[App] McAfee Central for Dell",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.BingTranslator",
+   "info": "[App] Bing Translator",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.MinecraftEducationEdition",
+   "info": "[Game] Minecraft: Education Edition",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "PandoraMediaInc.29680B314EFC2",
+   "info": "[App] Pandora",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "PublicationsInternational.iCookbookSE",
+   "info": "[App] iCookbook",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "RollingDonutApps.WordDropDeluxe",
+   "info": "[Game] Word Drop Deluxe",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "SeavusAB.YatzyUltimateUniversal",
+   "info": "[Game] Yatzy Ultimate",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "SegaNetworksInc.56538047DFC80",
+   "info": "[Game] Sonic Dash",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "TrivialTechnology.CribbageFree",
+   "info": "[Game] Cribbage",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "ZeptoLabUKLimited.CutTheRope",
+   "info": "[Game] Cut The Rope",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "CyberLinkCorp.ac.PhotoDirectorforacerDesktop",
+   "info": "CyberLink Photo Director",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "E046963F.LenovoVoiceWorldWide",
+   "info": "[App] Lenovo Voice",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.MicrosoftJournal",
+   "info": "[App] Microsoft Journal",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "CreativeTechnologyLtd.SoundBlasterConnect",
+   "info": "Sound Blaster Connect",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "STMicroelectronicsMEMS.DellFreeFallDataProtection",
+   "info": "[App] Dell: Free Fall Data Protection",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "49032.ExtremeBikers-SuperMotor",
+   "info": "[Game] Extreme Bikers: Super Motor",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "5319275A.WhatsAppDesktop",
+   "info": "[App] WhatsApp",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "king.com.CandyCrushSaga",
+   "info": "[Game] Candy Crush Saga",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "SynapticsIncorporated.SynapticsUtilities",
+   "info": "Synaptics Fingerprint Reader Preboot Manager",
+   "issues": "Breaks fingerprint reader",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "ELANMicroelectronicsCorpo.ELANTrackPointforThinkpa",
+   "info": "ELAN TrackPoint",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "CyberLinkCorp.ac.PowerDirectorforacerDesktop",
+   "info": "CyberLink Power Director",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "MicrosoftCorporationII.WindowsSubsystemForAndroid",
+   "info": "Windows Subsystem For Android",
+   "issues": "Breaks Android Apps",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "RivetNetworks.KillerControlCenter",
+   "info": "Killer Control Center",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "WavesAudio.20761030F5EAC",
+   "info": "Wave Audio",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.DirectXRuntime",
+   "info": "DirectX Runtime",
+   "issues": "Breaks Games",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.GamingServices",
+   "info": "Microsoft Gaming Services",
+   "issues": "Breaks Xbox Live",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Disney.37853FC22B2CE",
+   "info": "[App] Disney+",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "FACEBOOK.317180B0BB486",
+   "info": "[App] Facebook Messenger",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "62064BengigiStudio.FaceBlender",
+   "info": "[App] Face Blender",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "21336V3TApps.MovieMaker-FREE",
+   "info": "[App] Movie Maker - Video Editor",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "63764Meltytech.Shotcut",
+   "info": "[App] Shortcut by Meltytech",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "SpotifyAB.SpotifyMusic",
+   "info": "[App] Spotify",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "4DF9E0F8.Netflix",
+   "info": "[App] Netflix",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "62459devel0per.ColoringForAdults",
+   "info": "[App] Coloring Book: Drawing For Adults and Kids",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "SkylumSoftware.LuminarAI",
+   "info": "[App] Luminar AI: Image Editor",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Clipchamp.Clipchamp",
+   "info": "[App] Clipchamp: Video Editor",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "57540AMZNMobileLLC.AmazonAlexa",
+   "info": "[App] Amazon Alexa",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "GOTrustTechnologyInc.GO-TrustAuthenticator",
+   "info": "[App] GoTrust ID",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "4505Fortemedia.FMAPOControl",
+   "info": "[App] Smart Microphone Settings",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "DolbyLaboratories.DolbyAudio",
+   "info": "[App] Dolby Audio",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "AcerIncorporated.AcerCareCenterS",
+   "info": "[App] Acer Care Center",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "AcerIncorporated.AcerRegistration",
+   "info": "[App] Acer Registration",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "AppUp.IntelGraphicsControlPanel",
+   "info": "[App] Intel Graphics Control Panel",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "AcerIncorporated.QuickAccess",
+   "info": "[App] Acer Quick Access Service",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "AcerIncorporated.UserExperienceImprovementProgram",
+   "info": "[App] Acer User Experience Improvement Program",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "AcerIncorporated.AcerCollectionS",
+   "info": "[App] Acer Collection",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "AcerIncorporated.NitroSenseV31",
+   "info": "[App] Acer Nitro Sense",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "AD2F1837.OMENCommandCenter",
+   "info": "[App] OMEN Gaming Hub",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "AD2F1837.OMENSpectate",
+   "info": "[App] OMEN Oasos",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "king.com.CandyCrushFriends",
+   "info": "[Game] Candy Crush: Friends",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "king.com.CandyCrushJellySaga",
+   "info": "[Game] Candy Crush: Jelly Saga",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "king.com.CandyCrushSodaSaga",
+   "info": "[Game] Candy Crush: Soda Saga",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "1ED5AEA5.AngryBirdsFriends",
+   "info": "[Game] Angry Birds: Friends",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "A278AB0D.Asphalt9",
+   "info": "[Game] Asphalt 9",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "A278AB0D.AsphaltXtreme",
+   "info": "[Game] Asphalt: Xtreme",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "BethesdaSoftworks.FalloutShelter",
+   "info": "[Game] Fallout: Shelter",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "GAMELOFTSA.Asphalt8Airborne",
+   "info": "[Game] Asphalt 8: Airborne",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.HaloSpartanAssault",
+   "info": "[Game] Halo: Spartan Assault",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "ROBLOXCORPORATION.ROBLOX",
+   "info": "[Game] Roblox",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "33C30B79.NGENUITY",
+   "info": "HyperX NGenuity",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "A-Volute.28054DF1F58B4",
+   "info": "Sonic Studio 3",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "A-Volute.SonicStudio3",
+   "info": "Sonic Studio 3",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "DTSInc.DTSSoundUnbound",
+   "info": "DTS Sound Unbound",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "NVIDIACorp.NVIDIAControlPanel",
+   "info": "Nvidia Control Panel",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.Messaging",
+   "info": "?",
+   "issues": "?",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.OneConnect",
+   "info": "Microsfot OneConnect",
+   "issues": "Might break cloud sync",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.HelpAndTips",
+   "info": "?",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.MicrosoftOfficeHub",
+   "info": "[App] Microsoft Office Hub",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.GamingApp",
+   "info": "Gaming App ?",
+   "issues": "?",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "WhatsNew",
+   "info": "?",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.ECApp",
+   "info": "Microsoft Eye Controlls",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "MicrosoftWindows.UndockedDevKit",
+   "info": "Windows Development Kit",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.Windows.PinningConfirmationDialog",
+   "info": "Pinning Confirmation Dialog",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.549981C3F5F10",
+   "info": "Cortana",
+   "issues": "?",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.Windows.Cortana",
+   "info": "Cortana",
+   "issues": "?",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "1527c705-839a-4832-9118-54d4Bd6a0c89",
+   "info": "Microsoft Windows FilePicker",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "E2A4F912-2574-4A75-9BB0-0D023378592B",
+   "info": "App Resolver UX",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "F46D4000-FD22-4DB4-AC8E-4E1DDDE828FE",
+   "info": "Add Suggested Folders To Library Dialog",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "c5e2524a-ea46-4f67-841f-6a9465d9d515",
+   "info": "Windows File Explorer",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "DesktopView",
+   "info": "?",
+   "issues": "?",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "CortanaListenUIApp",
+   "info": "Cortana",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "EnvironmentsApp",
+   "info": "?",
+   "issues": "?",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.Windows.HolographicFirstRun",
+   "info": "Windows Holographic - First Run",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "C27EB4BA.DropboxOEM",
+   "info": "Dropbox",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "PricelinePartnerNetwork.Priceline.comTheBestDealso",
+   "info": "[App] Priceline",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "26720RandomSaladGamesLLC.SimpleSolitaire",
+   "info": "[Game] Simple Solitaire",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Passthrough",
+   "info": "?",
+   "issues": "?",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "9426MICRO-STARINTERNATION.BusinessCenter",
+   "info": "[App] MSI Center",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "B9ECED6F.ArmouryCrate",
+   "info": "[App] Asus Armoury Crate",
+   "issues": "Breaks LED light settings",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "B9ECED6F.ASUSBusinessManager",
+   "info": "[App] Asus Business Manager",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "ICEpower.AudioWizard",
+   "info": "[App] ASUS Audio Wizard",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "DTSInc.DTSXUltra",
+   "info": "[App] DTS: X Ultra",
+   "issues": "Audio specific settings",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "0E3921EB.sMedioTrueDVDforHP",
+   "info": "[App] sMedio True DVD Player",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "1CWirelessLLC.Mahjong3Free",
+   "info": "[Game] Mahjong 3 Free",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "3EA2211E.RICOHDriverUtility",
+   "info": "[App] Ricoh Driver Utility",
+   "issues": "May break Ricoh printer support",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "59091GameDesignStudio.49884BD11456A",
+   "info": "[Game] Tetris!",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "60AC5286.JigsawPuzzlesHD",
+   "info": "[Game] Jigsaw Puzzles HD",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "664D3057.MahjongDeluxeFree",
+   "info": "[Game] Mahjong Deluxe Free",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "828B5831.HiddenCityMysteryofShadows",
+   "info": "[Game] Hidden City: Mystery of Shadows",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "AD2F1837.HPEnhance",
+   "info": "[App] HP: Enhanced Lighting",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "AD2F1837.SavingsCenterFeaturedOffers",
+   "info": "[App] Savings Center Featured Offers",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "AdobeAcrobatReaderCoreApp",
+   "info": "[App] Adobe Acrobat Reader",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "AdobeSystemsIncorporated.AdobeRevel",
+   "info": "[App] Adobe Revel",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "BelledonneCommunications.Linphone",
+   "info": "[App] Linphone",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "BrowseTechLLC.AdRemover",
+   "info": "[Malware] Fake Ad Blocker",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.Advertising.JavaScript",
+   "info": "Microsoft Advertising for Java",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.D3DMappingLayers",
+   "info": "D3D Mapping Layers ?",
+   "issues": "?",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.Windows.DevHome",
+   "info": "[App] Microsoft Dev Home",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.Winget.Source",
+   "info": "Winget",
+   "issues": "Alternate Windows Package Manager",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "NORDCURRENT.COOKINGFEVER",
+   "info": "[Game] Cooking Fever",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "NortonSecurity",
+   "info": "Norton Security [?]",
+   "issues": "?",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Playtika.BINGOBlitz-FreeBingoSlots",
+   "info": "[Game] Bingo Blitz",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "RollingDonutApps.JewelStar",
+   "info": "[Game] Jewel Star",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "RollingDonutApps.PuzzleStar",
+   "info": "[Game] Puzzle Star",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "TextUs.TextUsVoice",
+   "info": "[App] TextUsVoice",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.WindowsAppRuntime.CBS",
+   "info": "Windows App Runtime (CBS)",
+   "issues": "Breaks Windows Store Apps",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "MicrosoftWindows.Client.FileExp",
+   "info": "File Explorer",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "MicrosoftCorporationII.WinAppRuntime.Main.1.3",
+   "info": "Windows App Runtime (1.3)",
+   "issues": "Breaks Windows Store Apps",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "15191PeakPlayer.NeatOffice",
+   "info": "[App] Neat Office",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.WindowsAppRuntime.1.4",
+   "info": "Windows App Runtime (1.4)",
+   "issues": "Breaks Windows Store Apps",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.Office.Desktop",
+   "info": "Office Desktop",
+   "issues": "?",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "B9ECED6F.ASUSPCAssistant",
+   "info": "[App] My Asus",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "DTSInc.DTSAudioProcessing",
+   "info": "DTS Audio Processing",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.WindowsAppRuntime.1.3",
+   "info": "Windows App Runtime (1.3)",
+   "issues": "Breaks Windows Store Apps",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "RealtekSemiconductorCorp.RealtekAudioControl",
+   "info": "Realtek Audio Control",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.WindowsAppRuntime.1.2",
+   "info": "Windows App Runtime (1.2)",
+   "issues": "Breaks Windows Store Apps",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "FileManager",
+   "info": "?",
+   "issues": "?",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.AsyncTextService",
+   "info": "Text Analysis / Recognition",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.Win32WebViewHost",
+   "info": "WebView Host",
+   "issues": "Breaks some software",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.UI.Xaml.CBS",
+   "info": "Microsoft User Interface XAML Core Binding Services",
+   "issues": "?",
+   "hide": "yes",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "MicrosoftWindows.Client.WebExperience",
+   "info": "Windows Client Web Experience",
+   "issues": "?",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "5A894077.McAfeeSecurity",
+   "info": "[App] McAfee Personal Security",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.6365217CE6EB4",
+   "info": "[App] Windows Defender",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "InputApp",
+   "info": "Touch based input devices",
+   "issues": "?",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.Windows.Apprep.ChxApp",
+   "info": "Windows Application Reputation service",
+   "issues": "Breaks harmful app check",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.Windows.DevicesFlowHost",
+   "info": "Device Flow Host",
+   "issues": "Breaks driver installers",
+   "hide": "yes",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.Windows.ModalSharePickerHost",
+   "info": "Share Picker",
+   "issues": "Break in-app share feature",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "AppUp.IntelOptaneMemoryandStorageManagement",
+   "info": "Intel Optane memory manager",
+   "issues": "Data loss, if you are using Optane",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "AppUp.ThunderboltControlCenter",
+   "info": "Thunderbolt Control Center",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "WebAuthBridgeInternet",
+   "info": "Windows Holographic - Sign in",
+   "issues": "Breaks HoloLens",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "WebAuthBridgeInternetSso",
+   "info": "Windows Holographic - Sign in",
+   "issues": "Breaks HoloLens",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "WebAuthBridgeIntranetSso",
+   "info": "Windows Holographic - Sign in",
+   "issues": "Breaks HoloLens",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.XboxIdentityProvider",
+   "info": "[App] Xbox *user authentication",
+   "issues": "Breaks Xbox sign-in",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "EsetContextMenu",
+   "info": "Eset Context Menu",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "AD2F1837.HPSystemEventUtility",
+   "info": "HP System Event Utility",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "AD2F1837.HPAudioCenter",
+   "info": "HP audio center",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "E0469640.LenovoUtility",
+   "info": "Lenovo Hotkeys",
+   "issues": "Breaks keyboard hotkeys",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "E046963F.LenovoCompanion",
+   "info": "Lenovo Companion",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "E046963F.LenovoSupport",
+   "info": "Lenovo Support",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "McAfeeInc.06.McAfeeSecurityAdvisorforLenovo",
+   "info": "McAfee Security Advisor",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "CyberLinkCorp.id.PowerDVDforLenovoIdea",
+   "info": "CyberLink Power DVD",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "CyberLinkCorp.hs.PowerMediaPlayer14forHPConsumerPC",
+   "info": "CyberLink Power Media Player 14",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "RealtekSemiconductorCorp.HPAudioControl",
+   "info": "[App] HP Audio Control",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "AdvancedMicroDevicesInc-2.AMDRadeonSoftware",
+   "info": "[App] AMD Radeon Software",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "AD2F1837.HPPowerManager",
+   "info": "HP Power Manager",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "AD2F1837.HPQuickDrop",
+   "info": "[App] HP QuickDrop",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "AD2F1837.myHP",
+   "info": "[App] MyHP",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "AD2F1837.HPSystemInformation",
+   "info": "HP System Information",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "PortraitDisplays.DellCinemaColor",
+   "info": "[App] Dell: Cinema Color",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "15191PeakPlayer.50533F9B98293",
+   "info": "[App] Any DVD - DVD & Video Player",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "2B24874D.DealsOffers",
+   "info": "[App] Deals & Offers",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "61878MobilityinLifeapplic.DVDPlayer",
+   "info": "[APP] DVD Player+",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "AD2F1837.HPPrinterControl",
+   "info": "[App] HP Smart",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "AppleInc.iTunes",
+   "info": "[App] iTunes",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "CheckPoint.VPN",
+   "info": "[App] Check Point VPN",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "ClearChannelRadioDigital.iHeartRadio",
+   "info": "[App] iHeart Radio",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "DB6EA5DB.MediaSuiteEssentialsforDell",
+   "info": "CyberLink Media Suite Essentials",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "DB6EA5DB.Power2GoforDell",
+   "info": "[App] CyberLink Power2Go",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "DB6EA5DB.PowerDirectorforDell",
+   "info": "[App] CyberLink PowerDirector",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "DB6EA5DB.PowerMediaPlayerforDell",
+   "info": "[App] Power Media Player",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "DolbyLaboratories.DolbyAccess",
+   "info": "[App] Dolby Access",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "eBayInc.eBay",
+   "info": "[App] eBay",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Evernote.Evernote",
+   "info": "[App] Evernote",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "f5.vpn.client",
+   "info": "[App] F5 VPN",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "HuluLLC.HuluPlus",
+   "info": "[App] Hulu+",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "JuniperNetworks.JunosPulseVpn",
+   "info": "[App] Junos Pulse VPN",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "KeeperSecurityInc.Keeper",
+   "info": "[App] Keeper Security: Password & Secure File Storage",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "K-NFBReadingTechnologiesI.BookPlace",
+   "info": "[App] Boook Place",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.3DBuilder",
+   "info": "[App] Microsoft's 3D Builder",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.MinecraftUWP",
+   "info": "[Game] Minecraft",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.MoCamera",
+   "info": "[App] Camera",
+   "issues": "[Not Removable]",
+   "hide": "yes",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.Whiteboard",
+   "info": "[App] Microsoft Whiteboard",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.WindowsScan",
+   "info": "[App] Windows Scan",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.WinJS.1.0",
+   "info": "JavaScript library 1.0",
+   "issues": "Breaks Windows 8.0 apps",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.WinJS.2.0",
+   "info": "JavaScript library 2.0",
+   "issues": "Breaks Windows 8.0 apps",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.XboxCompanion",
+   "info": "[App] Xbox Companion",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "ScreenConnectSoftware.ScreenConnect",
+   "info": "[App] ConnectWise ScreenConnect",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "SiriusXM.SiriusXM",
+   "info": "[App] Sirius XM",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "sMedioforToshiba.TOSHIBAMediaPlayerbysMedioTrueLin",
+   "info": "[App] Toshiba Media Player",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "SonicWALL.MobileConnect",
+   "info": "[App] SonicWall Mobile Connect",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "SymantecCorporation.NortonStudio",
+   "info": "[App] Norton Studio",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "ToshibaAmericaInformation.ToshibaCentral",
+   "info": "[App] Toshiba Central",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "WavesAudio.WavesMaxxAudioProforDell",
+   "info": "[App] Maxx Audio Pro",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "WildTangentGames.-GamesApp-",
+   "info": "[App] WildTangent Games App",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "XeroxCorp.PrintExperience",
+   "info": "[App] Xerox Print and Scan Experience",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "king.com.FarmHeroesSaga",
+   "info": "[Game] Farm Heroes Saga",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "47410TTXN.GotoHTTPRemoteControlfrombrowser",
+   "info": "[Remote Software] Go to HTTP Remote",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "WavesAudio.MaxxAudioProforDell2019",
+   "info": "[App] Waves Maxx Audio",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "DellInc.PartnerPromo",
+   "info": "Dell: Partner Promo",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "DellInc.DellSupportAssistforPCs",
+   "info": "[App] Dell: Support Assist",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "DellInc.DellRuggedControlCenter",
+   "info": "[App] Dell: Rugged Control Center",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "AppUp.IntelManagementandSecurityStatus",
+   "info": "[App] Intel Management & Security Status",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "DellInc.DellCommandUpdate",
+   "info": "[App] Dell: Command | Update",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "DellInc.DellOptimizer",
+   "info": "[App] Dell: Optimizer",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "ZinioLLC.Zinio",
+   "info": "[App] Zino Reader",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "RivetNetworks.SmartByte",
+   "info": "Give higher priority to bandwidth hungry activities over your Wi-Fi",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "ScreenovateTechnologies.DellMobileConnectPlus",
+   "info": "Phone screen mirroring",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "WavesAudio.MaxxAudioProforDell2020",
+   "info": "[App] Waves Maxx Audio",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "WavesAudio.MaxxAudioProforDell2021",
+   "info": "[App] Waves Maxx Audio",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "DellInc.DellCustomerConnect",
+   "info": "Survey application",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "DellInc.DellDigitalDelivery",
+   "info": "[App] Dell: Digital Delivery",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "DellInc.DellUpdate",
+   "info": "[App] Dell: Update",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "DellInc.MyDell",
+   "info": "[App] Dell: My Dell",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "AD2F1837.HPInc.EnergyStar",
+   "info": "Additional power saving settings",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "AD2F1837.HPJumpStart",
+   "info": "HP app manager",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "AD2F1837.HPPCHardwareDiagnosticsWindows",
+   "info": "HP Diagnostics",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.Windows.AssignedAccessLockApp",
+   "info": "Kiosk Mode",
+   "issues": "Breaks kiosk mode",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.Windows.ParentalControls",
+   "info": "Windows Parental Controls",
+   "issues": "Breaks 'Parental Controls' settings in Windows",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "AD2F1837.HPPrivacySettings",
+   "info": "HP privacy settings",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.Services.Store.Engagement",
+   "info": "Microsoft Store Analytics",
+   "issues": "Has dependencies, won't remove until they are removed",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.AV1VideoExtension",
+   "info": "AV1 Video Codec",
+   "issues": "Breaks AV1 video codec *Needed for VLC",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "AmazonVideo.PrimeVideo",
+   "info": "[App] Amazon Prime Video",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.WindowsReadingList",
+   "info": "[App] Windows Reading List",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "AD2F1837.HPSupportAssistant",
+   "info": "HP Support",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.HEVCVideoExtension",
+   "info": "HEVC Video Codec",
+   "issues": "Breaks HEVC video codec  *Not needed for VLC",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.Media.PlayReadyClient.2",
+   "info": "Play DRM content",
+   "issues": "Breaks videos that rely on Digital Rights Management",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.Media.PlayReadyClient",
+   "info": "Play DRM content",
+   "issues": "Breaks videos that rely on Digital Rights Management",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.MPEG2VideoExtension",
+   "info": "MPEG2 Video Codec",
+   "issues": "Breaks MPEG2 video codec  *Not needed for VLC",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "HoloCamera",
+   "info": "HoloLens Camera",
+   "issues": "Breaks HoloLens",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "HoloItemPlayerApp",
+   "info": "Virtual Reality",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "HoloShell",
+   "info": "Virtual Reality",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.MicrosoftEdge",
+   "info": "[App] Edge Browser (Legacy)",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.MicrosoftEdge.Stable",
+   "info": "[App] Edge Browser (Legacy)",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.MixedReality.Portal",
+   "info": "Mixed Reality Portal",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.Todos",
+   "info": "To Do",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "RoomAdjustment",
+   "info": "Virtual Reality: Room Adjustment",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "MixedRealityLearning",
+   "info": "Virtual Reality",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.VP9VideoExtensions",
+   "info": "VP9 Video Playback",
+   "issues": "Breaks VP9 video codec  *Not needed for VLC",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.MSPaint",
+   "info": "[App] Paint",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.Paint",
+   "info": "[App] Paint",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.PPIProjection",
+   "info": "Wireless Display",
+   "issues": "Breaks wireless screen casting",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.Windows.SecureAssessmentBrowser",
+   "info": "Lockdown browser",
+   "issues": "?",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.WindowsStore",
+   "info": "Windows Store",
+   "issues": "May prevent future apps from installing, or break current apps",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "winstore",
+   "info": "Windows Store",
+   "issues": "May prevent future apps from installing, or break current apps",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.MicrosoftSolitaireCollection",
+   "info": "[Game] Microsoft Solitaire Collection",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.OneDriveSync",
+   "info": "One Drive",
+   "issues": "Breaks OneDrive",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "MicrosoftTeams",
+   "info": "Microsoft Teams",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.Windows.CapturePicker",
+   "info": "[App] Windows Capture Picker",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.PowerAutomateDesktop",
+   "info": "Power Automate",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "MicrosoftCorporationII.QuickAssist",
+   "info": "Quick Assist (Remote screen sharing)",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "MicrosoftCorporationII.MicrosoftFamily",
+   "info": "Microsoft Family",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.WindowsCalculator",
+   "info": "[App] Calculator",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "microsoft.windowscommunicationsapps",
+   "info": "[App] Mail",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.WindowsNotepad",
+   "info": "[App] Notepad",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.Office.OneNote",
+   "info": "[App] OneNote",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.Windows.Photos",
+   "info": "[App] Photos",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.SkypeApp",
+   "info": "[App] Skype",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.ScreenSketch",
+   "info": "[App] Snip & Sketch",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.MicrosoftStickyNotes",
+   "info": "[App] Sticky Notes",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.YourPhone",
+   "info": "[App] Your Phone",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.Microsoft3DViewer",
+   "info": "[App] 3D Viewer",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.WindowsAlarms",
+   "info": "[App] Alarm",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.BingMaps",
+   "info": "[App] Bing Maps",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.BingNews",
+   "info": "[App] Bing News",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.BingSports",
+   "info": "[App] Bing Sports",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.BingTravel",
+   "info": "[App] Bing Travel",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.WindowsCamera",
+   "info": "[App] Camera",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.WindowsFeedbackHub",
+   "info": "[App] Feedback Hub",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.BingFoodAndDrink",
+   "info": "[App] Food & Drink",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.ZuneMusic",
+   "info": "[App] Groove Music Player",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.BingHealthAndFitness",
+   "info": "[App] Health & Fitness",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.BingFinance",
+   "info": "[App] Finance",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.WindowsMaps",
+   "info": "[App] Maps",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.ZuneVideo",
+   "info": "[App] Movies & TV",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.WindowsSoundRecorder",
+   "info": "[App] Sound Recorder",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.Windows.CallingShellApp",
+   "info": "Windows Calling Shell App",
+   "issues": "Breaking phone call features in apps",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.Wallet",
+   "info": "Microsoft Wallet",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.GetHelp",
+   "info": "[App] Get Help",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.Reader",
+   "info": "Microsoft Reader",
+   "issues": "PDF / XPS Viewer",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.BingWeather",
+   "info": "[App] Weather",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.Getstarted",
+   "info": "[App] Tips",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.BioEnrollment",
+   "info": "Biometric Enrollment",
+   "issues": "Breaks fingerprint & facial recognition",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.Windows.NarratorQuickStart",
+   "info": "Narrator screen reader tutorial",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.MicrosoftEdgeDevToolsClient",
+   "info": "[App] Edge Browser (Legacy)",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.Print3D",
+   "info": "Print 3D",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "AppUp.IntelGraphicsExperience",
+   "info": "[App] Intel Graphics Experience",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.Windows.PeopleExperienceHost",
+   "info": "[App] People",
+   "issues": "Breaks Mail app",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.People",
+   "info": "[App] People",
+   "issues": "Breaks Mail app",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.CredDialogHost",
+   "info": "Credential Dialogue",
+   "issues": "Breaks credential dialogue boxes",
+   "hide": "yes",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.DesktopAppInstaller",
+   "info": "Desktop App Installer",
+   "issues": "Breaks Microsoft Store",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.HEIFImageExtension",
+   "info": "HEIF Image Extension",
+   "issues": "Breaks HEIF image support",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.RawImageExtension",
+   "info": "Open RAW images",
+   "issues": "Breaks RAW image support",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "134D4F5B.Box",
+   "info": "[App] Box: Cloud Storage",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "AD2F1837.GettingStartedwithWindows8",
+   "info": "[App] Getting Started With Windows 8",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "AD2F1837.HPFileViewer",
+   "info": "[App] HP Connected Drive",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "AD2F1837.HPRegistration",
+   "info": "[App] HP Registration",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "AMZNMobileLLC.KindleforWindows8",
+   "info": "[App] Kindle",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "CyberLinkCorp.hs.YouCamforHP",
+   "info": "[App] YouCam",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.Appconnector",
+   "info": "?",
+   "issues": "?",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.ConnectivityStore",
+   "info": "Microsoft Connectivity Store",
+   "issues": "Might break Windows 8 Store",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "2703103D.McAfeeCentral",
+   "info": "[App] McAfee Central",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "AD2F1837.HPConnectedPhotopoweredbySnapfish",
+   "info": "[App] Snapfish",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "89006A2E.AutodeskSketchBook",
+   "info": "[App] SketchBook",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.Office.Sway",
+   "info": "[App] Sway",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "9E2F88E3.Twitter",
+   "info": "[App] Twitter",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.MicrosoftMahjong",
+   "info": "[Game] Microsoft Mahjong",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "B9ECED6F.ScreenPadMaster",
+   "info": "[App] ScreenXpert",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.LockApp",
+   "info": "Lock App",
+   "issues": "Breaks lock screen",
+   "hide": "yes",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.StorePurchaseApp",
+   "info": "Store Purchase App",
+   "issues": "Breaks Microsoft Store (Purchases)",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.WebMediaExtensions",
+   "info": "Web Media Extensions",
+   "issues": "Breaks media codecs",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.WebpImageExtension",
+   "info": "Open WebP images",
+   "issues": "Breaks WebP image support",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "MicrosoftWindows.Client.CBS",
+   "info": "Component-Based Servicing",
+   "issues": "Breaks Windows Update",
+   "hide": "yes",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.Windows.CloudExperienceHost",
+   "info": "Cloud Experience Host",
+   "issues": "Breaks OneDrive, and system syncing",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.Windows.ContentDeliveryManager",
+   "info": "Content Delivery Manager",
+   "issues": "Breaks theme, wallpaper, and Store update downloads. ",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.Windows.Search",
+   "info": "Windows Search",
+   "issues": "Breaks Windows search function",
+   "hide": "yes",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.Windows.SecHealthUI",
+   "info": "Security Center UI",
+   "issues": "Breaks Windows Security Center interface",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.Xbox.TCUI",
+   "info": "[App] Xbox *Text Chat User Interface",
+   "issues": "Breaks messaging in Xbox",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.XboxGameCallableUI",
+   "info": "[App] Xbox *Callable Game Interface",
+   "issues": "Breaks interface for achievements, leaderboards, etc.",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.XboxGameOverlay",
+   "info": "[App] Xbox Game Bar *part of it",
+   "issues": "Breaks [App] Xbox Game Bar",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yeso"
+  },
+  {
+   "name": "Microsoft.XboxGamingOverlay",
+   "info": "[App] Xbox Game Bar",
+   "issues": "Lose in-game screen capture",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.Windows.OOBENetworkConnectionFlow",
+   "info": "OOBE Network Connection Flow",
+   "issues": "Breaks wifi that require a captive portal login",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.Windows.OOBENetworkCaptivePortal",
+   "info": "OOBE Network Captive Portal",
+   "issues": "Breaks wifi that require a captive portal login",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.XboxSpeechToTextOverlay",
+   "info": "[App] Xbox *Speech to text OSD",
+   "issues": "Breaks speech messaging, in Xbox app",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.XboxApp",
+   "info": "[App] Xbox",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.XboxLIVEGames",
+   "info": "[App] Xbox *Xbox Live",
+   "issues": "Breaks [App] Xbox",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.SecHealthUI",
+   "info": "Security Center UI",
+   "issues": "Breaks Windows Security Center interface",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.Windows.ShellExperienceHost",
+   "info": "Windows Shell",
+   "issues": "Breaks Windows shell (Start menu, taskbar, etc)",
+   "hide": "yes",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.Windows.StartMenuExperienceHost",
+   "info": "Start Menu",
+   "issues": "Breaks Start menu",
+   "hide": "yes",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.Windows.XGpuEjectDialog",
+   "info": "GPU Eject Dialog",
+   "issues": "Breaks ejection of external GPUs",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "NcsiUwpApp",
+   "info": "Network Connectivity Status Indicator",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "Windows.CBSPreview",
+   "info": "Component-Based Servicing Preview",
+   "issues": "?",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "windows.immersivecontrolpanel",
+   "info": "Immersive Control Panel",
+   "issues": "New (Settings) on Windows 10/11",
+   "hide": "yes",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.WindowsTerminal",
+   "info": "Windows Terminal",
+   "issues": "Windows 11's name for command prompt",
+   "hide": "yes",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Windows.PrintDialog",
+   "info": "Print Dialog",
+   "issues": "Breaks printing",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.Windows.PrintQueueActionCenter",
+   "info": "Printer Queue",
+   "issues": "Breaks printing",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.UI.Xaml.2.0",
+   "info": "eXtensible Application Markup Language",
+   "issues": "[Not Removable]",
+   "hide": "yes",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.UI.Xaml.2.1",
+   "info": "eXtensible Application Markup Language",
+   "issues": "[Not Removable]",
+   "hide": "yes",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.UI.Xaml.2.2",
+   "info": "eXtensible Application Markup Language",
+   "issues": "[Not Removable]",
+   "hide": "yes",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.UI.Xaml.2.3",
+   "info": "eXtensible Application Markup Language",
+   "issues": "[Not Removable]",
+   "hide": "yes",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.UI.Xaml.2.4",
+   "info": "eXtensible Application Markup Language",
+   "issues": "[Not Removable]",
+   "hide": "yes",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.UI.Xaml.2.5",
+   "info": "eXtensible Application Markup Language",
+   "issues": "[Not Removable]",
+   "hide": "yes",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.UI.Xaml.2.6",
+   "info": "eXtensible Application Markup Language",
+   "issues": "[Not Removable]",
+   "hide": "yes",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.UI.Xaml.2.7",
+   "info": "eXtensible Application Markup Language",
+   "issues": "[Not Removable]",
+   "hide": "yes",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.UI.Xaml.2.8",
+   "info": "eXtensible Application Markup Language",
+   "issues": "[Not Removable]",
+   "hide": "yes",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "MicrosoftWindows.Client.Core",
+   "info": "Windows Client Core",
+   "issues": "Breaks Windows, software, and apps",
+   "hide": "yes",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.Advertising.Xaml",
+   "info": "Advertising ID",
+   "issues": "Has dependencies, won't remove until they are removed",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.AAD.BrokerPlugin",
+   "info": "Azure Active Directory authentication",
+   "issues": "Office, Store, etc. Breaks app sign-in dialogue box",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.AccountsControl",
+   "info": "User Account Controls",
+   "issues": "Breaks user account settings",
+   "hide": "yes",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "11990MediaHub.LivelyWallpaperMetro",
+   "info": "[App] Lively Wallpaper Metro",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "1258EllAbi.MoveMouse",
+   "info": "[App] Move Mouse",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "15EF7777.Crunchyroll",
+   "info": "[App] Crunchyroll",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "25415Inkscape.Inkscape",
+   "info": "[App] Inkscape",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "28017CharlesMilette.TranslucentTB",
+   "info": "[App] TranslucentTB",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "29645FreeConnectedLimited.X-VPN-FreeUnlimitedVPNPr",
+   "info": "[App] X-VPN",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "2FE3CB00.PICSART-PHOTOSTUDIO",
+   "info": "[App] Picsart: Photo Studio",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "3138AweZip.AweZip",
+   "info": "[App] BreeZip",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "35450PhotoCoolApps.UltimatePhotoEditor",
+   "info": "[App] Ultimate Photo Editor",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "40459File-New-Project.EarTrumpet",
+   "info": "[App] EarTrumpet",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "43290NullTheory.RRemote",
+   "info": "[App] RRemote",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.RemoteDesktop",
+   "info": "[Remote Software] Microsoft Remote Desktop",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "46614NiceView.BibleUniversal",
+   "info": "[App] Shepherd Bible",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "5957Turnipsoft.freda",
+   "info": "[App] Freda: Ebook Reader",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "59992Roob.BestProxyFastUnlimitedVPNfunctionality",
+   "info": "[App] Best Proxy",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "64885BlueEdge.OneCalendar",
+   "info": "[App] One Calendar",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "6A2B26F6.PlutoTV",
+   "info": "[App] PlutoTV",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "6F71D7A7.HotspotShieldFreeVPN",
+   "info": "[App] Hotspot Shield VPN",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "AdobeSystemsIncorporated.AdobePhotoshopExpress",
+   "info": "[App] Adobe Photoshop Express",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "AmazonMobileLLC.AmazonMusic",
+   "info": "[App] Amazon Music",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "AppleInc.AppleTVWin",
+   "info": "[App] Apple TV",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "BlenderFoundation.Blender",
+   "info": "[App] Blender",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "FINGERSOFT.HILLCLIMBRACING",
+   "info": "[Game] Hill Climb Racing",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "FreeVPNPlanet.PlanetVPN",
+   "info": "[App] Planet VPN",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "ibisinc.ibisPaint",
+   "info": "[App] Ibis Paint",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "MAXONComputerGmbH.Cinebench",
+   "info": "[App] Cinebench",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.MicrosoftJigsaw",
+   "info": "[Game] Microsoft Jigsaw",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.MicrosoftMinesweeper",
+   "info": "[Game] Microsoft Minesweeper",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.MicrosoftPowerBIDesktop",
+   "info": "[App] Power BI Desktop",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.MicrosoftTreasureHunt",
+   "info": "[Game] Microsoft Treasure Hunt",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.SurfaceWirelessDisplayAdapter",
+   "info": "[App] Surface Wireless Display Adapter",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.XboxDevices",
+   "info": "[App] Xbox: Devices",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.XboxInsider",
+   "info": "[App] Xbox: Insider Hub",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Mozilla.Firefox",
+   "info": "[App] Firefox",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "NeroAG.NeroDVDPlayer",
+   "info": "[App] Nero DVD Player",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "OliveTreeBibleSoftwareInc.BibleAppbyOliveTree",
+   "info": "[App] Olive Tree Bible",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "PythonSoftwareFoundation.Python.3.11",
+   "info": "[App] Python 3.11",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "SAMSUNGELECTRONICSCO.LTD.GalaxyBuds",
+   "info": "[App] Samsung: Galaxy Buds",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Splashtop.1368551ECD015",
+   "info": "[Remote Software] Splashtop",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "TudorspanLimited.RecipeKeeperFree",
+   "info": "[App] Recipe Keeper",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "VideoLAN.VLC",
+   "info": "[App] VLC",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "13717PlayBestFreeGamesInc.253360FB89AB1",
+   "info": "[Game] Chess",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "19789RossBor.ClassicFreeCell",
+   "info": "[Game] Classic FreeCell",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "28944Stefanvd.ZoomforMicrosoftEdge",
+   "info": "[App] Zoom for Microsoft Edge",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "6243BoostApps.ZoomMeetingEasyGuide",
+   "info": "[App] Zoom Meeting Easy Guide",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "AD2F1837.HPDesktopSupportUtilities",
+   "info": "[App] HP Desktop Support Utilities",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "B9ECED6F.ASUSKeyboardHotkeys",
+   "info": "[App] ASUS Keyboard Hotkeys",
+   "issues": "Might loose hotkey settings",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "DellInc.DellCinemaGuide",
+   "info": "[App] Dell Cinema Guide",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "DellInc.DellHelpSupport",
+   "info": "[App] Dell Help & Support",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "DellInc.DellProductRegistration",
+   "info": "[App] Dell Product Registration",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "DriverToaster",
+   "info": "[App] Dell: SupportAssist Driver Update",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.OutlookForWindows",
+   "info": "[App] Outlook for Windows",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.ProjectReunion.0.5",
+   "info": "Microsoft ProjectReunion 0.5",
+   "issues": "May break apps",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.TeamsXboxGameBarWidget",
+   "info": "[App] Microsoft Teams: Play Together",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.WindowsAppRuntime.1.1",
+   "info": "Windows App Runtime (1.1)",
+   "issues": "Breaks Windows Store Apps",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Playtika.WorldSeriesofPoker",
+   "info": "[App] World Series of Poker",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "ScreenovateTechnologies.DellMobileConnect",
+   "info": "[App] Dell Mobile Connect",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "SymantecCorporation.NortonSafeWeb",
+   "info": "[App] Norton: Safe Web",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "www.disneyplus.com-29AE268E",
+   "info": "[App] Disney+",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "ZoomVideoCommunicationsIn.ZoomRooms",
+   "info": "[App] Zoom Rooms",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  }
+ ]
