@@ -16,6 +16,14 @@
    "bloat": "no"
   },
   {
+   "name": "AdZeroInteractiveLLC.AdZeroAdblocker",
+   "info": "AdZero Adblocker",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
    "name": "38552CrispApp.RomancewithChocolate-HiddenObjectsLo",
    "info": "[Game] Romance with Chocolate: Hidden Object in Paris",
    "issues": "none",
