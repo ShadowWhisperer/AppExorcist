@@ -17,7 +17,7 @@
   },
   {
    "name": "AdZeroInteractiveLLC.AdZeroAdblocker",
-   "info": "AdZero Adblocker",
+   "info": "[App] AdZero Adblocker",
    "issues": "none",
    "hide": "no",
    "native": "no",
@@ -1806,6 +1806,94 @@
    "hide": "no",
    "native": "no",
    "bloat": "yes"
+  },
+  {
+   "name": "2247GTSWTools.GTAutoClicker",
+   "info": "[App] GT Auto Clicker ",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "AD2F1837.HPPenControlPlus",
+   "info": "[App] HP Pen Control Plus",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "AD2F1837.HPThermalControl",
+   "info": "[App] HP Command Center",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "AppUp.IntelConnectivityPerformanceSuite",
+   "info": "[App] Intel Connectivity Performance Suite",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "DropboxInc.Dropbox",
+   "info": "[App] DropBox",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "DropboxInc.Dropbox",
+   "info": "[App] DropBox",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.Ink.Handwriting.en-US.1.0",
+   "info": "Microsoft Ink Handwriting [EN/US]",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.Ink.Handwriting.Main.en-US.1.0.1",
+   "info": "Microsoft Ink Handwriting (Main) [EN/US]",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.WindowsAppRuntime.1.5",
+   "info": "Windows App Runtime (1.5)",
+   "issues": "Breaks Windows Store Apps",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "MSTeams",
+   "info": "[App] Microsoft Teams",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "MSTeams",
+   "info": "[App] Microsoft Teams (Work/School)",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
   },
   {
    "name": "DTSInc.DTSAudioProcessing",
