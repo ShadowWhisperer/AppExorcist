@@ -1904,6 +1904,94 @@
    "bloat": "yes"
   },
   {
+   "name": "26720RandomSaladGamesLLC.3899848563C1F",
+   "info": "[Game] Hearts Deluxe",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "55779AmazingMan.CrosswordPuzzle",
+   "info": "[Game] Crossword Puzzle",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "AcerIncorporated.AcerPurifiedVoiceConsoleR",
+   "info": "[App] Acer Purified Voice Console",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "AcerIncorporated.UserExperienceImprovementProgramV",
+   "info": "Acer User Experience Improvement Program",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.Ink.Handwriting.en-US.1.0",
+   "info": "Microsoft Ink Handwriting [EN/US]",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.Ink.Handwriting.Main.en-US.1.0.1",
+   "info": "Microsoft Ink Handwriting [EN/US]",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.Windows.Ai.Copilot.Provider",
+   "info": "[App] Microsoft Copilot",
+   "issues": "?",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.WindowsAppRuntime.1.5",
+   "info": "Windows App Runtime (1.5)",
+   "issues": "Breaks Windows Store Apps",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "MicrosoftWindows.Client.CoPilot",
+   "info": "[App] Microsoft Copilot (MSIX Pack)",
+   "issues": "?",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "MicrosoftWindows.CrossDevice",
+   "info": "Windows CrossDevice",
+   "issues": "?",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "ULICTekInc.AcerSense5.0",
+   "info": "[App] AcerSense",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
    "name": "Microsoft.WindowsAppRuntime.1.3",
    "info": "Windows App Runtime (1.3)",
    "issues": "Breaks Windows Store Apps",
