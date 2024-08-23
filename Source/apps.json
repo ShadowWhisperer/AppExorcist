@@ -1856,25 +1856,9 @@
    "bloat": "no"
   },
   {
-   "name": "Microsoft.Ink.Handwriting.en-US.1.0",
-   "info": "Microsoft Ink Handwriting [EN/US]",
-   "issues": "none",
-   "hide": "no",
-   "native": "yes",
-   "bloat": "no"
-  },
-  {
    "name": "Microsoft.Ink.Handwriting.Main.en-US.1.0.1",
    "info": "Microsoft Ink Handwriting (Main) [EN/US]",
    "issues": "none",
-   "hide": "no",
-   "native": "yes",
-   "bloat": "no"
-  },
-  {
-   "name": "Microsoft.WindowsAppRuntime.1.5",
-   "info": "Windows App Runtime (1.5)",
-   "issues": "Breaks Windows Store Apps",
    "hide": "no",
    "native": "yes",
    "bloat": "no"
@@ -1937,14 +1921,6 @@
   },
   {
    "name": "Microsoft.Ink.Handwriting.en-US.1.0",
-   "info": "Microsoft Ink Handwriting [EN/US]",
-   "issues": "none",
-   "hide": "no",
-   "native": "yes",
-   "bloat": "no"
-  },
-  {
-   "name": "Microsoft.Ink.Handwriting.Main.en-US.1.0.1",
    "info": "Microsoft Ink Handwriting [EN/US]",
    "issues": "none",
    "hide": "no",
