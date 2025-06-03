@@ -1848,14 +1848,6 @@
    "bloat": "no"
   },
   {
-   "name": "DropboxInc.Dropbox",
-   "info": "[App] DropBox",
-   "issues": "none",
-   "hide": "no",
-   "native": "no",
-   "bloat": "no"
-  },
-  {
    "name": "Microsoft.Ink.Handwriting.Main.en-US.1.0.1",
    "info": "Microsoft Ink Handwriting (Main) [EN/US]",
    "issues": "none",
@@ -1866,14 +1858,6 @@
   {
    "name": "MSTeams",
    "info": "[App] Microsoft Teams",
-   "issues": "none",
-   "hide": "no",
-   "native": "yes",
-   "bloat": "no"
-  },
-  {
-   "name": "MSTeams",
-   "info": "[App] Microsoft Teams (Work/School)",
    "issues": "none",
    "hide": "no",
    "native": "yes",
@@ -4240,6 +4224,182 @@
    "bloat": "no"
   },
   {
+   "name": "22094SynapticsIncorporate.SmartAudio3",
+   "info": "[App] SmartAudio 3",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "35450PhotoCoolApps.BusinessCardMakerAndDesigner",
+   "info": "[App] Business Card Maker And Designer",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "AppleInc.iCloud",
+   "info": "[App] iCloud",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "B9ECED6F.ASUSTutor",
+   "info": "[App] ASUS Tutor",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "B9ECED6F.ASUSWelcome",
+   "info": "[App] ASUS Welcome",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "C27EB4BA.DROPBOX",
+   "info": "[App] Dropbox",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Facebook.InstagramBeta",
+   "info": "[App] Instagram",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.Adera",
+   "info": "[Game] Adera",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.AVCEncoderVideoExtension",
+   "info": "AVC Video Codec",
+   "issues": "May break Clipchamp, or Microsoft Photos",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.BingSearch",
+   "info": "Bing Search",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "yes"
+  },
+  {
+   "name": "Microsoft.Copilot",
+   "info": "[App] Microsoft Copilot",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "MicrosoftCorporationII.WinAppRuntime.Main.1.5",
+   "info": "Windows App Runtime (1.5)",
+   "issues": "Breaks Windows Store Apps",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.FreshPaint",
+   "info": "[App] Fresh Paint",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.OfficePushNotificationUtility",
+   "info": "Office Push Notifications Utility",
+   "issues": "?",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.Studios.PinballFx2",
+   "info": "[Game] Pinball FX 2",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.Taptiles",
+   "info": "[Game] Tap Tiles",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.WidgetsPlatformRuntime",
+   "info": "Microsoft Widgets Platform Runtime",
+   "issues": "?",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.WindowsAppRuntime.1.6",
+   "info": "Windows App Runtime (1.6)",
+   "issues": "Breaks Windows Store Apps",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.WindowsAppRuntime.1.7",
+   "info": "Windows App Runtime (1.7)",
+   "issues": "Breaks Windows Store Apps",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.WindowsAppRuntime.CBS.1.6",
+   "info": "Windows App Runtime (CBS 1.6)",
+   "issues": "Breaks Windows Store Apps",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "MicrosoftWindows.NarratorScript.Excel",
+   "info": "Narrator Extension: Excel",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "MicrosoftWindows.NarratorScript.Outlook",
+   "info": "Narrator Extension: Outlook",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
    "name": "Microsoft.WindowsAppRuntime.1.1",
    "info": "Windows App Runtime (1.1)",
    "issues": "Breaks Windows Store Apps",
@@ -4287,4 +4447,4 @@
    "native": "no",
    "bloat": "no"
   }
- ]
+]
