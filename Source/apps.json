@@ -16,6 +16,198 @@
    "bloat": "no"
   },
   {
+   "name": "6760NGPDFLab.PDFX",
+   "info": "[App] PDF X: PDF Editor & PDF Reader",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "BistLLC.i-BoatingGPSNauticalMarineCharts-offlinese",
+   "info": "[App] i-Boating: Marine Navigation Maps & Nautical Charts",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.Edge.GameAssist",
+   "info": "Microsoft Edge: Game Bar",
+   "issues": "none",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "SAMSUNGELECTRONICSCO.LTD.Bixby",
+   "info": "[App] Bixby AI",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "SAMSUNGELECTRONICSCO.LTD.LiveMessage",
+   "info": "[App] Samsung: Live message",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "SAMSUNGELECTRONICSCoLtd.MultiControl",
+   "info": "[App] Samsung: Multi Control",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "SAMSUNGELECTRONICSCO.LTD.PrivateShare",
+   "info": "[App] Samsung: Private Share",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "SAMSUNGELECTRONICSCO.LTD.SamsungAccount",
+   "info": "[App] Samsung Account",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "SAMSUNGELECTRONICSCO.LTD.SamsungCarePlusLauncher",
+   "info": "[App] Samsung Care Plus",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "SAMSUNGELECTRONICSCO.LTD.SamsungCloudBluetoothSync",
+   "info": "[App] Samsung Cloud Bluetooth Sync",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "SAMSUNGELECTRONICSCoLtd.SamsungContinuityService",
+   "info": "[App] Samsung Continuity Service",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "SAMSUNGELECTRONICSCO.LTD.SamsungFree",
+   "info": "[App] Samsung TV Plus",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "SAMSUNGELECTRONICSCoLtd.SamsungNotes",
+   "info": "[App] Samsung Notes",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "SAMSUNGELECTRONICSCO.LTD.SamsungPCCleaner",
+   "info": "[App] Samsung Device Care",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "SAMSUNGELECTRONICSCO.LTD.SamsungQuickSearch",
+   "info": "[App] Samsung: Quick Search",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "SAMSUNGELECTRONICSCoLtd.SamsungQuickShare",
+   "info": "[App] Samsung: Quick Share",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "SAMSUNGELECTRONICSCO.LTD.SamsungRecovery",
+   "info": "[App] Samsung Recovery",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "SAMSUNGELECTRONICSCO.LTD.SamsungScreenRecording",
+   "info": "[App] Samsung: Screen Recorder",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "SAMSUNGELECTRONICSCO.LTD.SamsungSecurity1.2",
+   "info": "[App] Samsung Security",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "SAMSUNGELECTRONICSCO.LTD.SamsungUpdate",
+   "info": "[App] Samsung: Update",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "SAMSUNGELECTRONICSCO.LTD.SamsungWelcome",
+   "info": "Samsung: Welcome",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "yes"
+  },
+  {
+   "name": "SAMSUNGELECTRONICSCoLtd.SecondScreen",
+   "info": "[App] Samsung: Second Screen",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "SAMSUNGELECTRONICSCO.LTD.SmartThingsWindows",
+   "info": "[App] Samsung: SmartThings",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "SAMSUNGELECTRONICSCO.LTD.StudioPlus",
+   "info": "[App] Samsung: Studio Plus",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
    "name": "AdZeroInteractiveLLC.AdZeroAdblocker",
    "info": "[App] AdZero Adblocker",
    "issues": "none",
