@@ -1,14 +1,19 @@
-**Forcable purge windows apps from your system**
-> **Warning**: This program modifies Windows and registry settings. Create a system restore point before use.  
-> An automatic restore point is attempted (Windows limits 1 every 24 hours).  
->  
-> **Disclaimer**: AppExorcist is provided "as is" without warranty of any kind, express or implied, including but not limited to fitness for a particular purpose.  
-> Use at your own risk. The developers are not liable for any damages or data loss caused by this program.  
+**Forcably purge windows apps from your system**  
 
 <br>
 
-[Download Link](https://github.com/ShadowWhisperer/AppExorcist/blob/main/AppExorcist.exe?raw=true)
+> **Warning**  
+> This program modifies Windows and registry settings. Create a system restore point before use.  
+> An automatic restore point is attempted by this program, but Windows limits 1 every 24 hours.  
+>  
+> **Disclaimer**  
+> AppExorcist is provided "as is" without warranty of any kind. Use at your own risk. The devs are not liable for any damages or potential data loss caused by this program.  
 
+<br>
+
+[Download](https://github.com/ShadowWhisperer/AppExorcist/releases/latest/download/AppExorcist.exe)  
+
+<br>
 
 ## System Requirements
 - **Supported OS**: Windows 8, 10, 11 (64-bit only)
