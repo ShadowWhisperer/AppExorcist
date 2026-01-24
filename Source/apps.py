@@ -7,7 +7,6 @@ import fnmatch           #File deletion *String match
 import sys               #Get Admin permissions
 import getpass           #Take Permissions
 import winreg            #Modify Windows Registry
-import shutil            #Delete folders
 import win32con             #Set registry permissions
 import win32api             #Set registry permissions
 import pywintypes           #Set registry permissions
@@ -15,16 +14,16 @@ import win32security        #Set registry permissions
 import threading              #Used in status window *Commands execute before window shows
 import glob                   #Search files/folders
 import requests               #Download Apps list from Github
-import tkinter as tk                #GUI
-from tkinter import messagebox, ttk #GUI
-import tkinter.font as tkfont       #GUI - Font
+import tkinter as tk                          #GUI
+from tkinter import messagebox, ttk           #GUI
+import tkinter.font as tkfont                 #GUI - Font
 from tkinter.scrolledtext import ScrolledText #GUI - Scroll text
 
 
 #
-# cd C:\Program Files\Python312
+# cd C:\Users\Sean\AppData\Local\Programs\Python\Python313
 # python.exe -m pip install --upgrade pip
-# cd C:\Program Files\Python312\Scripts
+# cd C:\Users\Sean\AppData\Local\Programs\Python\Python313\Scripts
 # pip.exe install pywin32 pyinstaller requests wmid
 #
 
@@ -132,7 +131,8 @@ def download_database():
         if response.status_code == 200:
             with open(tmp_path, 'wb') as file:
                 file.write(response.content)
-            line_count = sum(1 for _ in open(tmp_path, 'r'))
+            with open(tmp_path, 'r') as file:
+                line_count = sum(1 for _ in file)
             os.replace(tmp_path, final_path) if line_count >= 4000 else os.remove(tmp_path)
     except:
         pass
@@ -209,7 +209,7 @@ def get_display_name(full_name):  #Get 'DisplayName' from registry
 def rebuild_database():
     ctypes.windll.shell32.SHChangeNotify(0x8000000, 0, None, None)  #Clear app cache
     with open(os.devnull, 'w') as devnull:
-        subprocess.run('PowerShell -NoProfile -Command "Get-AppxPackage -AllUsers | foreach { $_.PackageFullName }"', startupinfo=hide_console(), stdout=devnull, stderr=subprocess.STDOUT)
+        subprocess.run('PowerShell -NoProfile -Command "Get-AppxPackage -AllUsers | foreach { $_.PackageFullName }"', startupinfo=hide_console(), stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
     #Get list of installed Appx
     powershell_command = 'Get-AppxPackage -AllUsers | Where-Object { $_.Name -notlike "Microsoft.VCLibs.*" -and $_.Name -notlike "Microsoft.NET.*" } | Select-Object Name | Format-Table -AutoSize | Out-String -Width 10000'
     powershell_process = subprocess.Popen(['powershell', '-Command', powershell_command], startupinfo=hide_console(), stdout=subprocess.PIPE)
@@ -229,7 +229,7 @@ def rebuild_database():
 def build_database():
     ctypes.windll.shell32.SHChangeNotify(0x8000000, 0, None, None)  # Clear app cache
     with open(os.devnull, 'w') as devnull:
-        subprocess.run('PowerShell -NoProfile -Command "Get-AppxPackage -AllUsers | foreach { $_.PackageFullName }"', stdout=devnull, stderr=subprocess.STDOUT)
+        subprocess.run('PowerShell -NoProfile -Command "Get-AppxPackage -AllUsers | foreach { $_.PackageFullName }"', startupinfo=hide_console(), stdout=devnull, stderr=subprocess.STDOUT)
     #List of installed Appx
     powershell_command = 'Get-AppxPackage -AllUsers | Where-Object { $_.Name -notlike "Microsoft.VCLibs.*" -and $_.Name -notlike "Microsoft.NET.*" } | Select-Object Name, PackageFullName | Format-Table -AutoSize | Out-String -Width 10000'
     powershell_process = subprocess.Popen(['powershell', '-Command', powershell_command], startupinfo=hide_console(), stdout=subprocess.PIPE)
@@ -246,7 +246,7 @@ def build_database():
     for app_name, full_name in app_full_name_pairs:
         app_name = app_name.strip()
         full_name = full_name.strip()
-        # heck if the app exists in the database_sw and is not hidden
+        # Check if the app exists in the database_sw and is not hidden
         if app_name in matching_apps or any(app['name'] == app_name and app.get('hide') != 'yes' for app in json_data):
             app_info = matching_apps.get(app_name)
             if app_info is None:
@@ -325,9 +325,7 @@ def registry_perms(key_path):
         return
 
 #Registry - Remove open with context menu
-# HKEY_CLASSES_ROOT\SystemFileAssociations
-#                                         \*\Shell\
-#                                                  3D Edit
+# HKEY_CLASSES_ROOT\SystemFileAssociations\*\Shell\3D Edit
 def RegContext(package_name,text_box):
     #Paint 3D
     if package_name == "Microsoft.MSPaint":
@@ -476,8 +474,6 @@ def registry_specific(package_name,user_sid,text_box):
                 registry(key_path, text_box)
     else:
         pass
-
-
 
 # HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Notifications\Settings\
 #                                                                        app_name
@@ -809,22 +805,18 @@ def remove_apps():
         total_apps = len(selected_apps)
         current_app = 0
         for item in selected_apps:
+            package_name = app_list.set(item, "Package Name")
+            if not package_name:
+                continue
             current_app += 1
-            if REM: #Remnants
-                package_name = item
-            else:
-                package_name = app_list.set(item, "Package Name")
-                if not package_name:
-                    continue
-                if opt == 'ext':
-                    display_status("\n", text_box)
-                display_status(f"({current_app}/{total_apps})  { package_name}", text_box, is_green=True)
-                #Remove context menu
-                RegContext(package_name,text_box)
-                #Remove App
-                remove_apps_vers(package_name)
-                if opt == 'fast':
-                    continue
+            display_status(f"({current_app}/{total_apps})  {package_name}", text_box, is_green=True)
+
+            #Remove context menu
+            RegContext(package_name,text_box)
+            #Remove App
+            remove_apps_vers(package_name)
+            if opt == 'fast':
+                continue
           #################################################################
             wildcard_keys = registry_wild(package_name, user_sid)
             for key_path in wildcard_keys:
@@ -1086,7 +1078,7 @@ def remove_check():
 #   Main GUI                                                                                     #
 #================================================================================================#
 root = tk.Tk()
-root.title("App Exorcist - 1/31/2024 - ShadowWhisperer")
+root.title("App Exorcist v1.1 - ShadowWhisperer")
 root.geometry("1100x550")  #width x height
 root.iconbitmap(icon_cross)
 
