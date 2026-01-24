@@ -4592,6 +4592,14 @@
    "bloat": "no"
   },
   {
+   "name": "MicrosoftCorporationII.WinAppRuntime.Main.1.6",
+   "info": "Windows App Runtime (1.6)",
+   "issues": "Breaks Windows Store Apps",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
    "name": "Microsoft.FreshPaint",
    "info": "[App] Fresh Paint",
    "issues": "none",
