@@ -50,5 +50,11 @@
 - **Incomplete Removal**: Some registry keys/files may persist due to system constraints.
 - **Hidden Apps**: Critical apps are hidden to avoid breaking system functionality. Remove ? apps at your own risk.
 
+## Build From Source
+```
+pip.exe install pywin32 pyinstaller requests wmi
+
+pyinstaller --noconsole  --onefile -i cross.ico -n AppExorcist.exe --add-data "cross.ico;." apps.py --add-data apps.json;."
+```  
 
 https://github.com/ShadowWhisperer/AppExorcist/assets/61057625/864408be-c763-465b-bf0d-2fc0a1db03a4
