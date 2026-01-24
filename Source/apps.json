@@ -1,5 +1,85 @@
 [
   {
+   "name": "aimgr",
+   "info": "Microsoft 365 AI Manager",
+   "issues": "?",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "AppUp.IntelArcSoftware",
+   "info": "Intel Graphics Software",
+   "issues": "none",
+   "hide": "no",
+   "native": "no",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.Office.ActionsServer",
+   "info": "Office Action Server",
+   "issues": "?",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.ApplicationCompatibilityEnhancements",
+   "info": "Microsoft Application Compatibility Enhancements",
+   "issues": "?",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.StartExperiencesApp",
+   "info": "Microsoft Start Experiences",
+   "issues": "Breaks the start menu",
+   "hide": "yes",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.WindowsAppRuntime.1.8",
+   "info": "Windows App Runtime (1.8)",
+   "issues": "Breaks Windows Store Apps",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "Microsoft.WindowsAppRuntime.CBS.1.8",
+   "info": "Windows App Runtime (CBS 1.8)",
+   "issues": "Breaks Windows Store Apps",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "MicrosoftWindows.Client.CoreAI",
+   "info": "Windows CoreAI",
+   "issues": "Breaks Copilot",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "MicrosoftWindows.Client.OOB",
+   "info": "Out-Of-Box Experience",
+   "issues": "? Might break Windows Updates",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
+   "name": "MicrosoftWindows.Client.Photon",
+   "info": "Windows Client Photon",
+   "issues": "?",
+   "hide": "no",
+   "native": "yes",
+   "bloat": "no"
+  },
+  {
    "name": "26720RandomSaladGamesLLC.HeartsDeluxe",
    "info": "[Game] Hearts Deluxe",
    "issues": "none",
