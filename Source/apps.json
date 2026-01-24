@@ -9,7 +9,7 @@
   },
   {
    "name": "AppUp.IntelArcSoftware",
-   "info": "Intel Graphics Software",
+   "info": "[App] Intel Graphics Software",
    "issues": "none",
    "hide": "no",
    "native": "no",
@@ -1617,7 +1617,7 @@
   },
   {
    "name": "Microsoft.OneConnect",
-   "info": "Microsfot OneConnect",
+   "info": "Microsoft OneConnect",
    "issues": "Might break cloud sync",
    "hide": "no",
    "native": "yes",
@@ -1657,7 +1657,7 @@
   },
   {
    "name": "Microsoft.ECApp",
-   "info": "Microsoft Eye Controlls",
+   "info": "Microsoft Eye Controls",
    "issues": "none",
    "hide": "no",
    "native": "yes",
