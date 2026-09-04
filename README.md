@@ -15,6 +15,11 @@
 
 <br>
 
+
+Extended Edge/Webview removal: [HERE](https://github.com/ShadowWhisperer/Remove-MS-Edge)
+
+<br>
+
 ## System Requirements
 - **Supported OS**: Windows 8, 10, 11 (64-bit only)
 
